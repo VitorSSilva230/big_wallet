@@ -1,26 +1,19 @@
 <template>
- 
-    <Login msg="Welcome to Your Vue.js App"/>
-  
+  <div id="app">
+    
+    
+    <router-link to="/login">a</router-link>
+
+    <router-view></router-view>
+  </div>
 </template>
 
 <script>
-//import HelloWorld from './components/views/HelloWorld.vue'
-import Login from './components/auth/login/Login.vue'
 
 export default {
   name: 'App',
   components: {
-    //HelloWorld,
-    Login
+   
   }
-}
+};
 </script>
-
-
-<style scoped lang="css">
-
-@import url("./components/style/style.css");
-
-
-</style>
