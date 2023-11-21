@@ -9,7 +9,7 @@
                         <v-form ref="form" @submit.prevent="registerUser">
                             <v-text-field v-model="usuario.name" label="Nome" required></v-text-field>
                             <v-text-field v-model="usuario.email" label="Email" type="email" required></v-text-field>
-                            <v-text-field v-model="usuario.password" label="Senha" type="password" required></v-text-field>
+                            <v-text-field v-model="usuario.password" label="Senha" type="password" :error-messages="email.errorMessage.value" required></v-text-field>
                             <v-text-field v-model="usuario.cpf" label="CPF" v-mask="'###.###.###-##'" required></v-text-field>
                             <v-btn type="submit" color="primary">Cadastrar</v-btn>
                         </v-form>

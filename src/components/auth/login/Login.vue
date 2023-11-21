@@ -26,9 +26,9 @@
                 <div class="forgot-password"><span></span></div>
             </div>
             <div class="buttons">
-                <div class="login"><v-btn type="submit" @click="navigateToDashboard()">Entrar</v-btn></div>
+                <div class="login"><v-btn type="submit" block  @click="navigateToDashboard()">Entrar</v-btn></div>
                 <div class="signup">
-                    <v-btn type="submit" @click="navigateToCadastro()">Cadastrar-se</v-btn>
+                    <v-btn type="submit"  @click="navigateToCadastro()">Cadastrar-se</v-btn>
                 </div>
             </div>
             <div>
