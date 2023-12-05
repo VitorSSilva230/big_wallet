@@ -6,6 +6,12 @@ import Login from '../components/auth/login/Login.vue';
 import Cadastro from '../components/auth/cadastro/Cadastro.vue';
 import Dashboard from '../components/views/dashboard/Dashboard.vue';
 import Transaction from '../components/views/transaction/Transaction.vue';
+import Profile from "../components/views/profile/Profile.vue";
+import Menu from "../components/views/menu/Menu.vue";
+import Wallet from "../components/views/wallet/Wallet.vue";
+import History from "../components/views/transactionHistory/History.vue";
+import TransactionMain from "../components/views/transaction/transactionMain.vue";
+
 
 // Use o Vue Router
 Vue.use(Router);
@@ -32,6 +38,31 @@ const routes = [
     path: '/transaction',
     name: 'transaction',
     component: Transaction,
+  },
+  {
+    path:'profile',
+    name: 'profile',
+    component: Profile,
+  },
+  {
+    path:'/menu',
+    name: 'menu',
+    component: Menu,
+  },
+  {
+    path:'/wallet',
+    name:'wallet',
+    component: Wallet,
+  },
+  {
+    path:'/history',
+    name:'history',
+    component: History,
+  },
+  {
+    path:'/transactionMain',
+    name:'transactionMain',
+    component: TransactionMain,
   }
 ];
 

@@ -1,0 +1,2010 @@
+[
+    {
+        "id": "01coin",
+        "name": "01coin",
+        "symbol": "zoc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/5720/thumb/F1nTlw9I_400x400.jpg?1696506175",
+        "url_img_small": "https://assets.coingecko.com/coins/images/5720/small/F1nTlw9I_400x400.jpg?1696506175",
+        "url_img_large": "https://assets.coingecko.com/coins/images/5720/large/F1nTlw9I_400x400.jpg?1696506175"
+    },
+    {
+        "id": "0chain",
+        "name": "Zus",
+        "symbol": "zcn",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/4934/thumb/200x200_transparent.png?1696505474",
+        "url_img_small": "https://assets.coingecko.com/coins/images/4934/small/200x200_transparent.png?1696505474",
+        "url_img_large": "https://assets.coingecko.com/coins/images/4934/large/200x200_transparent.png?1696505474"
+    },
+    {
+        "id": "0-knowledge-network",
+        "name": "0 Knowledge Network",
+        "symbol": "0kn",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31626/thumb/200x200.png?1696530442",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31626/small/200x200.png?1696530442",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31626/large/200x200.png?1696530442"
+    },
+    {
+        "id": "0-mee",
+        "name": "O-MEE",
+        "symbol": "ome",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/25099/thumb/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1696524249",
+        "url_img_small": "https://assets.coingecko.com/coins/images/25099/small/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1696524249",
+        "url_img_large": "https://assets.coingecko.com/coins/images/25099/large/logo-mark-full-colour-cmyk-693px_300ppi.jpg?1696524249"
+    },
+    {
+        "id": "0vix-protocol",
+        "name": "0VIX Protocol",
+        "symbol": "vix",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29085/thumb/vix.png?1696528049",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29085/small/vix.png?1696528049",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29085/large/vix.png?1696528049"
+    },
+    {
+        "id": "0x",
+        "name": "0x Protocol",
+        "symbol": "zrx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/863/thumb/0x.png?1696501996",
+        "url_img_small": "https://assets.coingecko.com/coins/images/863/small/0x.png?1696501996",
+        "url_img_large": "https://assets.coingecko.com/coins/images/863/large/0x.png?1696501996"
+    },
+    {
+        "id": "0x0-ai-ai-smart-contract",
+        "name": "0x0.ai: AI Smart Contract",
+        "symbol": "0x0",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28880/thumb/0x0.png?1696527857",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28880/small/0x0.png?1696527857",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28880/large/0x0.png?1696527857"
+    },
+    {
+        "id": "0x1-tools-ai-multi-tool",
+        "name": "0x1.tools: AI Multi-tool",
+        "symbol": "0x1",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31026/thumb/a392bc3a-9e36-4e6a-bdfe-254b7bb36918.jpeg?1696529862",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31026/small/a392bc3a-9e36-4e6a-bdfe-254b7bb36918.jpeg?1696529862",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31026/large/a392bc3a-9e36-4e6a-bdfe-254b7bb36918.jpeg?1696529862"
+    },
+    {
+        "id": "0xaiswap",
+        "name": "0xAISwap",
+        "symbol": "0xaiswap",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32739/thumb/0x-AISwap-logo.png?1699236607",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32739/small/0x-AISwap-logo.png?1699236607",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32739/large/0x-AISwap-logo.png?1699236607"
+    },
+    {
+        "id": "0xanon",
+        "name": "0xAnon",
+        "symbol": "0xanon",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32836/thumb/IMG_20231108_161217_519.jpg?1699587007",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32836/small/IMG_20231108_161217_519.jpg?1699587007",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32836/large/IMG_20231108_161217_519.jpg?1699587007"
+    },
+    {
+        "id": "0xauto-io-contract-auto-deployer",
+        "name": "0xAuto.io : Contract Auto Deployer",
+        "symbol": "0xa",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30673/thumb/photo_2023-06-01_11-19-59_%282%29.jpg?1696529543",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30673/small/photo_2023-06-01_11-19-59_%282%29.jpg?1696529543",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30673/large/photo_2023-06-01_11-19-59_%282%29.jpg?1696529543"
+    },
+    {
+        "id": "0xcoco",
+        "name": "0xCoco",
+        "symbol": "coco",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31102/thumb/FL1-g3Ns_400x400.jpg?1696529933",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31102/small/FL1-g3Ns_400x400.jpg?1696529933",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31102/large/FL1-g3Ns_400x400.jpg?1696529933"
+    },
+    {
+        "id": "0xdao",
+        "name": "0xDAO",
+        "symbol": "oxd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22888/thumb/rjks-OoT_400x400.jpg?1696522186",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22888/small/rjks-OoT_400x400.jpg?1696522186",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22888/large/rjks-OoT_400x400.jpg?1696522186"
+    },
+    {
+        "id": "0xdefcafe",
+        "name": "0xDEFCAFE",
+        "symbol": "cafe",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31738/thumb/200x200.png?1696530557",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31738/small/200x200.png?1696530557",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31738/large/200x200.png?1696530557"
+    },
+    {
+        "id": "0xfreelance",
+        "name": "0xFreelance",
+        "symbol": "0xfree",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32173/thumb/0xfreelance-icon-200px.png?1696742117",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32173/small/0xfreelance-icon-200px.png?1696742117",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32173/large/0xfreelance-icon-200px.png?1696742117"
+    },
+    {
+        "id": "0xfriend",
+        "name": "0xFriend",
+        "symbol": "0xf",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31414/thumb/0xfriendlive.jpg?1696530229",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31414/small/0xfriendlive.jpg?1696530229",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31414/large/0xfriendlive.jpg?1696530229"
+    },
+    {
+        "id": "0xgambit",
+        "name": "0xgambit",
+        "symbol": "0xg",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32579/thumb/logo.png?1698558743",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32579/small/logo.png?1698558743",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32579/large/logo.png?1698558743"
+    },
+    {
+        "id": "0xgasless",
+        "name": "0xGasless",
+        "symbol": "0xgas",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31345/thumb/0XGAS.jpg?1696530163",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31345/small/0XGAS.jpg?1696530163",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31345/large/0XGAS.jpg?1696530163"
+    },
+    {
+        "id": "0x-leverage",
+        "name": "0x Leverage",
+        "symbol": "oxl",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31977/thumb/Ox.jpeg?1696530780",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31977/small/Ox.jpeg?1696530780",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31977/large/Ox.jpeg?1696530780"
+    },
+    {
+        "id": "0xlsd",
+        "name": "0xLSD",
+        "symbol": "0xlsd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32260/thumb/1.png?1697029202",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32260/small/1.png?1697029202",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32260/large/1.png?1697029202"
+    },
+    {
+        "id": "0xmonero",
+        "name": "0xMonero",
+        "symbol": "0xmr",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1696510979",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11035/small/0xmnr.PNG?1696510979",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11035/large/0xmnr.PNG?1696510979"
+    },
+    {
+        "id": "0xs",
+        "name": "0xS",
+        "symbol": "$0xs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31453/thumb/Logo200x200.png?1696530267",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31453/small/Logo200x200.png?1696530267",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31453/large/Logo200x200.png?1696530267"
+    },
+    {
+        "id": "0xsniper",
+        "name": "0xSniper",
+        "symbol": "0xs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30862/thumb/Untitled_design_%2897%29.png?1696529709",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30862/small/Untitled_design_%2897%29.png?1696529709",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30862/large/Untitled_design_%2897%29.png?1696529709"
+    },
+    {
+        "id": "12ships",
+        "name": "12Ships",
+        "symbol": "tshp",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/9351/thumb/12ships.png?1696509451",
+        "url_img_small": "https://assets.coingecko.com/coins/images/9351/small/12ships.png?1696509451",
+        "url_img_large": "https://assets.coingecko.com/coins/images/9351/large/12ships.png?1696509451"
+    },
+    {
+        "id": "1art",
+        "name": "OneArt",
+        "symbol": "1art",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/19307/thumb/token_light_3x.png?1696518749",
+        "url_img_small": "https://assets.coingecko.com/coins/images/19307/small/token_light_3x.png?1696518749",
+        "url_img_large": "https://assets.coingecko.com/coins/images/19307/large/token_light_3x.png?1696518749"
+    },
+    {
+        "id": "1eco",
+        "name": "1eco",
+        "symbol": "1eco",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22118/thumb/mgrOT_dx_400x400.png?1696521459",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22118/small/mgrOT_dx_400x400.png?1696521459",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22118/large/mgrOT_dx_400x400.png?1696521459"
+    },
+    {
+        "id": "1hive-water",
+        "name": "1Hive Water",
+        "symbol": "water",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/26089/thumb/water_logo.png?1696525180",
+        "url_img_small": "https://assets.coingecko.com/coins/images/26089/small/water_logo.png?1696525180",
+        "url_img_large": "https://assets.coingecko.com/coins/images/26089/large/water_logo.png?1696525180"
+    },
+    {
+        "id": "1inch",
+        "name": "1inch",
+        "symbol": "1inch",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1696513230",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13469/small/1inch-token.png?1696513230",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230"
+    },
+    {
+        "id": "1inch-yvault",
+        "name": "1INCH yVault",
+        "symbol": "yv1inch",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28795/thumb/yv1INCH-128-0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67.png?1696527773",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28795/small/yv1INCH-128-0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67.png?1696527773",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28795/large/yv1INCH-128-0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67.png?1696527773"
+    },
+    {
+        "id": "1million-nfts",
+        "name": "1MillionNFTs",
+        "symbol": "1mil",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14990/thumb/4kQ8hRnU_400x400.jpg?1696514654",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14990/small/4kQ8hRnU_400x400.jpg?1696514654",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14990/large/4kQ8hRnU_400x400.jpg?1696514654"
+    },
+    {
+        "id": "1minbet",
+        "name": "1minBET",
+        "symbol": "1mb",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29606/thumb/CGK.png?1696528542",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29606/small/CGK.png?1696528542",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29606/large/CGK.png?1696528542"
+    },
+    {
+        "id": "1move token",
+        "name": "1Move Token",
+        "symbol": "1mt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27347/thumb/1MT.png?1696526394",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27347/small/1MT.png?1696526394",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27347/large/1MT.png?1696526394"
+    },
+    {
+        "id": "1peco",
+        "name": "1peco",
+        "symbol": "1peco",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22312/thumb/1PECO_200x200.png?1696521657",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22312/small/1PECO_200x200.png?1696521657",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22312/large/1PECO_200x200.png?1696521657"
+    },
+    {
+        "id": "1reward-token",
+        "name": "1Reward Token",
+        "symbol": "1rt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27348/thumb/1RT.png?1696526395",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27348/small/1RT.png?1696526395",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27348/large/1RT.png?1696526395"
+    },
+    {
+        "id": "1safu",
+        "name": "1SAFU",
+        "symbol": "safu",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22792/thumb/145941796-8f7716f4-66bc-4a38-9ad5-441525c3b5b2.png?1696522094",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22792/small/145941796-8f7716f4-66bc-4a38-9ad5-441525c3b5b2.png?1696522094",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22792/large/145941796-8f7716f4-66bc-4a38-9ad5-441525c3b5b2.png?1696522094"
+    },
+    {
+        "id": "1sol",
+        "name": "1Sol",
+        "symbol": "1sol",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/21615/thumb/YyGDie9f_400x400.jpg?1696520976",
+        "url_img_small": "https://assets.coingecko.com/coins/images/21615/small/YyGDie9f_400x400.jpg?1696520976",
+        "url_img_large": "https://assets.coingecko.com/coins/images/21615/large/YyGDie9f_400x400.jpg?1696520976"
+    },
+    {
+        "id": "1sol-io-wormhole",
+        "name": "1sol.io (Wormhole)",
+        "symbol": "1sol",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22923/thumb/1SOL_wh_small.png?1696522219",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22923/small/1SOL_wh_small.png?1696522219",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22923/large/1SOL_wh_small.png?1696522219"
+    },
+    {
+        "id": "-2",
+        "name": "₿",
+        "symbol": "₿",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31535/thumb/KB0nEHf__400x400.jpg?1696530344",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31535/small/KB0nEHf__400x400.jpg?1696530344",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31535/large/KB0nEHf__400x400.jpg?1696530344"
+    },
+    {
+        "id": "2049",
+        "name": "2049",
+        "symbol": "2049",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31716/thumb/1000002373.jpg?1696530537",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31716/small/1000002373.jpg?1696530537",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31716/large/1000002373.jpg?1696530537"
+    },
+    {
+        "id": "2080",
+        "name": "2080",
+        "symbol": "2080",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31816/thumb/b_fidelion_web_logo.png?1696530630",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31816/small/b_fidelion_web_logo.png?1696530630",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31816/large/b_fidelion_web_logo.png?1696530630"
+    },
+    {
+        "id": "20weth-80bal",
+        "name": "20WETH-80BAL",
+        "symbol": "20weth-80bal",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28005/thumb/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png?1696527022",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28005/small/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png?1696527022",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28005/large/0x3d468ab2329f296e1b9d8476bb54dd77d8c2320f.png?1696527022"
+    },
+    {
+        "id": "28",
+        "name": "28",
+        "symbol": "28",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32142/thumb/28.png?1696592290",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32142/small/28.png?1696592290",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32142/large/28.png?1696592290"
+    },
+    {
+        "id": "28vck",
+        "name": "28VCK",
+        "symbol": "vck",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/20063/thumb/9435.png?1696519481",
+        "url_img_small": "https://assets.coingecko.com/coins/images/20063/small/9435.png?1696519481",
+        "url_img_large": "https://assets.coingecko.com/coins/images/20063/large/9435.png?1696519481"
+    },
+    {
+        "id": "2acoin",
+        "name": "2ACoin",
+        "symbol": "arms",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/7244/thumb/Msm1JBY.png?1696507538",
+        "url_img_small": "https://assets.coingecko.com/coins/images/7244/small/Msm1JBY.png?1696507538",
+        "url_img_large": "https://assets.coingecko.com/coins/images/7244/large/Msm1JBY.png?1696507538"
+    },
+    {
+        "id": "2dai-io",
+        "name": "2DAI.io",
+        "symbol": "2dai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30542/thumb/2dai.jpg?1696529414",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30542/small/2dai.jpg?1696529414",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30542/large/2dai.jpg?1696529414"
+    },
+    {
+        "id": "2g-carbon-coin",
+        "name": "2G Carbon Coin",
+        "symbol": "2gcc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27514/thumb/Ojh3Dm3-_400x400.jpeg?1696526553",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27514/small/Ojh3Dm3-_400x400.jpeg?1696526553",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27514/large/Ojh3Dm3-_400x400.jpeg?1696526553"
+    },
+    {
+        "id": "2moon",
+        "name": "2MOON",
+        "symbol": "moon",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32194/thumb/2MOON.jpg?1696745527",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32194/small/2MOON.jpg?1696745527",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32194/large/2MOON.jpg?1696745527"
+    },
+    {
+        "id": "2omb-finance",
+        "name": "2omb",
+        "symbol": "2omb",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22311/thumb/VKF8hjD0_400x400.jpg?1696521656",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22311/small/VKF8hjD0_400x400.jpg?1696521656",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22311/large/VKF8hjD0_400x400.jpg?1696521656"
+    },
+    {
+        "id": "2share",
+        "name": "2SHARE",
+        "symbol": "2shares",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22313/thumb/VKF8hjD0_400x400.jpg?1696521658",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22313/small/VKF8hjD0_400x400.jpg?1696521658",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22313/large/VKF8hjD0_400x400.jpg?1696521658"
+    },
+    {
+        "id": "300fit",
+        "name": "300FIT",
+        "symbol": "fit",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/9690/thumb/6mkyI4Ss_400x400.png?1696509759",
+        "url_img_small": "https://assets.coingecko.com/coins/images/9690/small/6mkyI4Ss_400x400.png?1696509759",
+        "url_img_large": "https://assets.coingecko.com/coins/images/9690/large/6mkyI4Ss_400x400.png?1696509759"
+    },
+    {
+        "id": "3d3d",
+        "name": "3d3d",
+        "symbol": "3d3d",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30232/thumb/200x200_2.PNG?1696529142",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30232/small/200x200_2.PNG?1696529142",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30232/large/200x200_2.PNG?1696529142"
+    },
+    {
+        "id": "3dpass",
+        "name": "3DPass",
+        "symbol": "p3d",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32178/thumb/Logo200x200.png?1696742918",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32178/small/Logo200x200.png?1696742918",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32178/large/Logo200x200.png?1696742918"
+    },
+    {
+        "id": "3-kingdoms-multiverse",
+        "name": "3 Kingdoms Multiverse",
+        "symbol": "3km",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29383/thumb/3KM_Logo.jpg?1696528330",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29383/small/3KM_Logo.jpg?1696528330",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29383/large/3KM_Logo.jpg?1696528330"
+    },
+    {
+        "id": "3shares",
+        "name": "3Share",
+        "symbol": "3share",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/23079/thumb/96671285_%281%29.png?1696522369",
+        "url_img_small": "https://assets.coingecko.com/coins/images/23079/small/96671285_%281%29.png?1696522369",
+        "url_img_large": "https://assets.coingecko.com/coins/images/23079/large/96671285_%281%29.png?1696522369"
+    },
+    {
+        "id": "3wild",
+        "name": "3WILD",
+        "symbol": "3wild",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32687/thumb/photo_2023-10-31_02-19-52new.jpg?1699039534",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32687/small/photo_2023-10-31_02-19-52new.jpg?1699039534",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32687/large/photo_2023-10-31_02-19-52new.jpg?1699039534"
+    },
+    {
+        "id": "3xcalibur",
+        "name": "3xcalibur Ecosystem Token",
+        "symbol": "xcal",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28134/thumb/XCAL_Logo.png?1696527141",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28134/small/XCAL_Logo.png?1696527141",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28134/large/XCAL_Logo.png?1696527141"
+    },
+    {
+        "id": "42-coin",
+        "name": "42-coin",
+        "symbol": "42",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/1283/thumb/42-coin.png?1696502355",
+        "url_img_small": "https://assets.coingecko.com/coins/images/1283/small/42-coin.png?1696502355",
+        "url_img_large": "https://assets.coingecko.com/coins/images/1283/large/42-coin.png?1696502355"
+    },
+    {
+        "id": "4artechnologies",
+        "name": "4ART Coin",
+        "symbol": "4art",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/4690/thumb/0_%284%29.png?1696505257",
+        "url_img_small": "https://assets.coingecko.com/coins/images/4690/small/0_%284%29.png?1696505257",
+        "url_img_large": "https://assets.coingecko.com/coins/images/4690/large/0_%284%29.png?1696505257"
+    },
+    {
+        "id": "4chan",
+        "name": "4Chan",
+        "symbol": "4chan",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30124/thumb/4CHAN.png?1696529046",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30124/small/4CHAN.png?1696529046",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30124/large/4CHAN.png?1696529046"
+    },
+    {
+        "id": "4d-twin-maps-2",
+        "name": "4D Twin Maps",
+        "symbol": "4dmaps",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31220/thumb/27PGCqja_400x400.jpg?1696530046",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31220/small/27PGCqja_400x400.jpg?1696530046",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31220/large/27PGCqja_400x400.jpg?1696530046"
+    },
+    {
+        "id": "4int",
+        "name": "4INT",
+        "symbol": "4int",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/23444/thumb/logo_ff_200x200.jpg?1696522656",
+        "url_img_small": "https://assets.coingecko.com/coins/images/23444/small/logo_ff_200x200.jpg?1696522656",
+        "url_img_large": "https://assets.coingecko.com/coins/images/23444/large/logo_ff_200x200.jpg?1696522656"
+    },
+    {
+        "id": "4jnet",
+        "name": "4JNET",
+        "symbol": "4jnet",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/21145/thumb/4jnet.PNG?1696520523",
+        "url_img_small": "https://assets.coingecko.com/coins/images/21145/small/4jnet.PNG?1696520523",
+        "url_img_large": "https://assets.coingecko.com/coins/images/21145/large/4jnet.PNG?1696520523"
+    },
+    {
+        "id": "50cent",
+        "name": "50Cent",
+        "symbol": "50c",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/16431/thumb/50cents.png?1696516026",
+        "url_img_small": "https://assets.coingecko.com/coins/images/16431/small/50cents.png?1696516026",
+        "url_img_large": "https://assets.coingecko.com/coins/images/16431/large/50cents.png?1696516026"
+    },
+    {
+        "id": "5g-cash",
+        "name": "5G-CASH",
+        "symbol": "vgc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13313/thumb/5G_front_glossy.png?1696513083",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13313/small/5G_front_glossy.png?1696513083",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13313/large/5G_front_glossy.png?1696513083"
+    },
+    {
+        "id": "5km-run",
+        "name": "5KM RUN",
+        "symbol": "run",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/26072/thumb/logo-200.png?1696525156",
+        "url_img_small": "https://assets.coingecko.com/coins/images/26072/small/logo-200.png?1696525156",
+        "url_img_large": "https://assets.coingecko.com/coins/images/26072/large/logo-200.png?1696525156"
+    },
+    {
+        "id": "5mc",
+        "name": "5mc",
+        "symbol": "5mc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32862/thumb/5mc_200X200.png?1699670007",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32862/small/5mc_200X200.png?1699670007",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32862/large/5mc_200X200.png?1699670007"
+    },
+    {
+        "id": "69420",
+        "name": "69420",
+        "symbol": "69420",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32830/thumb/bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8.jpg?1699585611",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32830/small/bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8.jpg?1699585611",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32830/large/bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8.jpg?1699585611"
+    },
+    {
+        "id": "888tron",
+        "name": "888tron",
+        "symbol": "888",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/8043/thumb/888token_.png?1696508264",
+        "url_img_small": "https://assets.coingecko.com/coins/images/8043/small/888token_.png?1696508264",
+        "url_img_large": "https://assets.coingecko.com/coins/images/8043/large/888token_.png?1696508264"
+    },
+    {
+        "id": "88mph",
+        "name": "88mph",
+        "symbol": "mph",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13137/thumb/yfU-_Tcj_400x400.png?1696512923",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13137/small/yfU-_Tcj_400x400.png?1696512923",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13137/large/yfU-_Tcj_400x400.png?1696512923"
+    },
+    {
+        "id": "8bitearn",
+        "name": "8BITEARN",
+        "symbol": "8bit",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28908/thumb/WhatsApp_Image_2023-01-18_at_12.38.16.jpeg?1696527884",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28908/small/WhatsApp_Image_2023-01-18_at_12.38.16.jpeg?1696527884",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28908/large/WhatsApp_Image_2023-01-18_at_12.38.16.jpeg?1696527884"
+    },
+    {
+        "id": "8pay",
+        "name": "8Pay",
+        "symbol": "8pay",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14667/thumb/8pay.jpeg?1696514342",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14667/small/8pay.jpeg?1696514342",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14667/large/8pay.jpeg?1696514342"
+    },
+    {
+        "id": "99starz",
+        "name": "99Starz",
+        "symbol": "stz",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/21467/thumb/stz.png?1696520828",
+        "url_img_small": "https://assets.coingecko.com/coins/images/21467/small/stz.png?1696520828",
+        "url_img_large": "https://assets.coingecko.com/coins/images/21467/large/stz.png?1696520828"
+    },
+    {
+        "id": "9inch",
+        "name": "9inch",
+        "symbol": "9inch",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32662/thumb/9INCH-logo.png?1698901092",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32662/small/9INCH-logo.png?1698901092",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32662/large/9INCH-logo.png?1698901092"
+    },
+    {
+        "id": "9inch-eth",
+        "name": "9inch ETH",
+        "symbol": "9inch",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32663/thumb/9INCH_LOGO_200px.png?1699299985",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32663/small/9INCH_LOGO_200px.png?1699299985",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32663/large/9INCH_LOGO_200px.png?1699299985"
+    },
+    {
+        "id": "a3s",
+        "name": "A3S",
+        "symbol": "aa",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32133/thumb/A3S.jpg?1696588511",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32133/small/A3S.jpg?1696588511",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32133/large/A3S.jpg?1696588511"
+    },
+    {
+        "id": "a4-finance",
+        "name": "A4 Finance",
+        "symbol": "a4",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/21992/thumb/ba384ad07217a4be75cb85314f5760f7.jpg?1696521340",
+        "url_img_small": "https://assets.coingecko.com/coins/images/21992/small/ba384ad07217a4be75cb85314f5760f7.jpg?1696521340",
+        "url_img_large": "https://assets.coingecko.com/coins/images/21992/large/ba384ad07217a4be75cb85314f5760f7.jpg?1696521340"
+    },
+    {
+        "id": "aada-finance",
+        "name": "Lenfi",
+        "symbol": "lenfi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27825/thumb/download_%2813%29.png?1696526843",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27825/small/download_%2813%29.png?1696526843",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27825/large/download_%2813%29.png?1696526843"
+    },
+    {
+        "id": "aag-ventures",
+        "name": "AAG",
+        "symbol": "aag",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/21382/thumb/aag-token-icon.png?1696520747",
+        "url_img_small": "https://assets.coingecko.com/coins/images/21382/small/aag-token-icon.png?1696520747",
+        "url_img_large": "https://assets.coingecko.com/coins/images/21382/large/aag-token-icon.png?1696520747"
+    },
+    {
+        "id": "aardvark",
+        "name": "Aardvark [OLD]",
+        "symbol": "ardvrk",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31451/thumb/Logo_Trans_CG.png?1696530265",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31451/small/Logo_Trans_CG.png?1696530265",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31451/large/Logo_Trans_CG.png?1696530265"
+    },
+    {
+        "id": "aardvark-2",
+        "name": "Aardvark",
+        "symbol": "vark",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32678/thumb/VARK.jpg?1698929830",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32678/small/VARK.jpg?1698929830",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32678/large/VARK.jpg?1698929830"
+    },
+    {
+        "id": "aave",
+        "name": "Aave",
+        "symbol": "aave",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1696512452",
+        "url_img_small": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1696512452",
+        "url_img_large": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1696512452"
+    },
+    {
+        "id": "aave-aave",
+        "name": "Aave AAVE",
+        "symbol": "aaave",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17248/thumb/amAAVE_2x.png?1696516804",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17248/small/amAAVE_2x.png?1696516804",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17248/large/amAAVE_2x.png?1696516804"
+    },
+    {
+        "id": "aave-amm-bptbalweth",
+        "name": "Aave AMM BptBALWETH",
+        "symbol": "aammbptbalweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17261/thumb/aAmmBptBALWETH.png?1696516816",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17261/small/aAmmBptBALWETH.png?1696516816",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17261/large/aAmmBptBALWETH.png?1696516816"
+    },
+    {
+        "id": "aave-amm-bptwbtcweth",
+        "name": "Aave AMM BptWBTCWETH",
+        "symbol": "aammbptwbtcweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17260/thumb/aAmmBptWBTCWETH.png?1696516815",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17260/small/aAmmBptWBTCWETH.png?1696516815",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17260/large/aAmmBptWBTCWETH.png?1696516815"
+    },
+    {
+        "id": "aave-amm-dai",
+        "name": "Aave AMM DAI",
+        "symbol": "aammdai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17197/thumb/aAMMDAI_2x.png?1696516754",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17197/small/aAMMDAI_2x.png?1696516754",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17197/large/aAMMDAI_2x.png?1696516754"
+    },
+    {
+        "id": "aave-amm-uniaaveweth",
+        "name": "Aave AMM UniAAVEWETH",
+        "symbol": "aammuniaaveweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17232/thumb/aAmmUniAAVEWETH.png?1696516786",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17232/small/aAmmUniAAVEWETH.png?1696516786",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17232/large/aAmmUniAAVEWETH.png?1696516786"
+    },
+    {
+        "id": "aave-amm-unibatweth",
+        "name": "Aave AMM UniBATWETH",
+        "symbol": "aammunibatweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17217/thumb/aAmmUniBATWETH.png?1696516773",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17217/small/aAmmUniBATWETH.png?1696516773",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17217/large/aAmmUniBATWETH.png?1696516773"
+    },
+    {
+        "id": "aave-amm-unicrvweth",
+        "name": "Aave AMM UniCRVWETH",
+        "symbol": "aammunicrvweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17220/thumb/aAmmUniCRVWETH.png?1696516775",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17220/small/aAmmUniCRVWETH.png?1696516775",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17220/large/aAmmUniCRVWETH.png?1696516775"
+    },
+    {
+        "id": "aave-amm-unidaiusdc",
+        "name": "Aave AMM UniDAIUSDC",
+        "symbol": "aammunidaiusdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17218/thumb/aAmmUniDAIUSDC.png?1696516773",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17218/small/aAmmUniDAIUSDC.png?1696516773",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17218/large/aAmmUniDAIUSDC.png?1696516773"
+    },
+    {
+        "id": "aave-amm-unidaiweth",
+        "name": "Aave AMM UniDAIWETH",
+        "symbol": "aammunidaiweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17230/thumb/aAmmUniDAIWETH.png?1696516784",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17230/small/aAmmUniDAIWETH.png?1696516784",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17230/large/aAmmUniDAIWETH.png?1696516784"
+    },
+    {
+        "id": "aave-amm-unilinkweth",
+        "name": "Aave AMM UniLINKWETH",
+        "symbol": "aammunilinkweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17221/thumb/aAmmUniLINKWETH.png?1696516776",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17221/small/aAmmUniLINKWETH.png?1696516776",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17221/large/aAmmUniLINKWETH.png?1696516776"
+    },
+    {
+        "id": "aave-amm-unimkrweth",
+        "name": "Aave AMM UniMKRWETH",
+        "symbol": "aammunimkrweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17222/thumb/aAmmUniMKRWETH.png?1696516777",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17222/small/aAmmUniMKRWETH.png?1696516777",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17222/large/aAmmUniMKRWETH.png?1696516777"
+    },
+    {
+        "id": "aave-amm-unirenweth",
+        "name": "Aave AMM UniRENWETH",
+        "symbol": "aammunirenweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17223/thumb/aAmmUniRENWETH.png?1696516778",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17223/small/aAmmUniRENWETH.png?1696516778",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17223/large/aAmmUniRENWETH.png?1696516778"
+    },
+    {
+        "id": "aave-amm-unisnxweth",
+        "name": "Aave AMM UniSNXWETH",
+        "symbol": "aammunisnxweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17224/thumb/aAmmUniSNXWETH.png?1696516779",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17224/small/aAmmUniSNXWETH.png?1696516779",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17224/large/aAmmUniSNXWETH.png?1696516779"
+    },
+    {
+        "id": "aave-amm-uniuniweth",
+        "name": "Aave AMM UniUNIWETH",
+        "symbol": "aammuniuniweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17225/thumb/aAmmUniUNIWETH.png?1696516780",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17225/small/aAmmUniUNIWETH.png?1696516780",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17225/large/aAmmUniUNIWETH.png?1696516780"
+    },
+    {
+        "id": "aave-amm-uniusdcweth",
+        "name": "Aave AMM UniUSDCWETH",
+        "symbol": "aammuniusdcweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17219/thumb/aAmmUniUSDCWETH.png?1696516774",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17219/small/aAmmUniUSDCWETH.png?1696516774",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17219/large/aAmmUniUSDCWETH.png?1696516774"
+    },
+    {
+        "id": "aave-amm-uniwbtcusdc",
+        "name": "Aave AMM UniWBTCUSDC",
+        "symbol": "aammuniwbtcusdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17255/thumb/aAmmUniWBTCUSDC.png?1696516811",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17255/small/aAmmUniWBTCUSDC.png?1696516811",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17255/large/aAmmUniWBTCUSDC.png?1696516811"
+    },
+    {
+        "id": "aave-amm-uniwbtcweth",
+        "name": "Aave AMM UniWBTCWETH",
+        "symbol": "aammuniwbtcweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17231/thumb/aAmmUniWBTCWETH.png?1696516785",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17231/small/aAmmUniWBTCWETH.png?1696516785",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17231/large/aAmmUniWBTCWETH.png?1696516785"
+    },
+    {
+        "id": "aave-amm-uniyfiweth",
+        "name": "Aave AMM UniYFIWETH",
+        "symbol": "aammuniyfiweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17258/thumb/aAmmUniYFIWETH.png?1696516814",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17258/small/aAmmUniYFIWETH.png?1696516814",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17258/large/aAmmUniYFIWETH.png?1696516814"
+    },
+    {
+        "id": "aave-amm-usdc",
+        "name": "Aave AMM USDC",
+        "symbol": "aammusdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17226/thumb/aAMMUSDC_2x.png?1696516780",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17226/small/aAMMUSDC_2x.png?1696516780",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17226/large/aAMMUSDC_2x.png?1696516780"
+    },
+    {
+        "id": "aave-amm-usdt",
+        "name": "Aave AMM USDT",
+        "symbol": "aammusdt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17200/thumb/aAMMUSDT_2x.png?1696516757",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17200/small/aAMMUSDT_2x.png?1696516757",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17200/large/aAMMUSDT_2x.png?1696516757"
+    },
+    {
+        "id": "aave-amm-wbtc",
+        "name": "Aave AMM WBTC",
+        "symbol": "aammwbtc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17215/thumb/aAMMWBTC_2x.png?1696516771",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17215/small/aAMMWBTC_2x.png?1696516771",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17215/large/aAMMWBTC_2x.png?1696516771"
+    },
+    {
+        "id": "aave-amm-weth",
+        "name": "Aave AMM WETH",
+        "symbol": "aammweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17259/thumb/aAMMWETH_2x.png?1696516814",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17259/small/aAMMWETH_2x.png?1696516814",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17259/large/aAMMWETH_2x.png?1696516814"
+    },
+    {
+        "id": "aave-bal",
+        "name": "Aave BAL",
+        "symbol": "abal",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17242/thumb/aBAL_2x.png?1696516799",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17242/small/aBAL_2x.png?1696516799",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17242/large/aBAL_2x.png?1696516799"
+    },
+    {
+        "id": "aave-balancer-pool-token",
+        "name": "Aave Balancer Pool Token",
+        "symbol": "abpt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/16788/thumb/ABPT_2x.png?1696516360",
+        "url_img_small": "https://assets.coingecko.com/coins/images/16788/small/ABPT_2x.png?1696516360",
+        "url_img_large": "https://assets.coingecko.com/coins/images/16788/large/ABPT_2x.png?1696516360"
+    },
+    {
+        "id": "aave-bat",
+        "name": "Aave BAT",
+        "symbol": "abat",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14246/thumb/aBAT.1fe436f7_-_Copy.png?1696513961",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14246/small/aBAT.1fe436f7_-_Copy.png?1696513961",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14246/large/aBAT.1fe436f7_-_Copy.png?1696513961"
+    },
+    {
+        "id": "aave-bat-v1",
+        "name": "Aave BAT v1",
+        "symbol": "abat",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11726/thumb/aBAT.png?1696511608",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11726/small/aBAT.png?1696511608",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11726/large/aBAT.png?1696511608"
+    },
+    {
+        "id": "aave-busd",
+        "name": "Aave BUSD",
+        "symbol": "abusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14245/thumb/aBUSD.346a65d7_-_Copy.png?1696513960",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14245/small/aBUSD.346a65d7_-_Copy.png?1696513960",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14245/large/aBUSD.346a65d7_-_Copy.png?1696513960"
+    },
+    {
+        "id": "aave-busd-v1",
+        "name": "Aave BUSD v1",
+        "symbol": "abusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11736/thumb/aBUSD.png?1696511617",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11736/small/aBUSD.png?1696511617",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11736/large/aBUSD.png?1696511617"
+    },
+    {
+        "id": "aave-crv",
+        "name": "Aave CRV",
+        "symbol": "acrv",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17250/thumb/aCRV_2x.png?1696516806",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17250/small/aCRV_2x.png?1696516806",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17250/large/aCRV_2x.png?1696516806"
+    },
+    {
+        "id": "aave-dai",
+        "name": "Aave DAI",
+        "symbol": "adai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14242/thumb/aDAI.84b6c41f.png?1696513957",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14242/small/aDAI.84b6c41f.png?1696513957",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14242/large/aDAI.84b6c41f.png?1696513957"
+    },
+    {
+        "id": "aave-dai-v1",
+        "name": "Aave DAI v1",
+        "symbol": "adai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/10843/thumb/aDAI.png?1696510799",
+        "url_img_small": "https://assets.coingecko.com/coins/images/10843/small/aDAI.png?1696510799",
+        "url_img_large": "https://assets.coingecko.com/coins/images/10843/large/aDAI.png?1696510799"
+    },
+    {
+        "id": "aave-enj",
+        "name": "Aave ENJ",
+        "symbol": "aenj",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14251/thumb/aENJ.ed76293b.png?1696513964",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14251/small/aENJ.ed76293b.png?1696513964",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14251/large/aENJ.ed76293b.png?1696513964"
+    },
+    {
+        "id": "aave-enj-v1",
+        "name": "Aave ENJ v1",
+        "symbol": "aenj",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/12484/thumb/aENJ.png?1696512301",
+        "url_img_small": "https://assets.coingecko.com/coins/images/12484/small/aENJ.png?1696512301",
+        "url_img_large": "https://assets.coingecko.com/coins/images/12484/large/aENJ.png?1696512301"
+    },
+    {
+        "id": "aave-eth-v1",
+        "name": "Aave ETH v1",
+        "symbol": "aeth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11619/thumb/aETH_2x.png?1696511513",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11619/small/aETH_2x.png?1696511513",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11619/large/aETH_2x.png?1696511513"
+    },
+    {
+        "id": "aavegotchi",
+        "name": "Aavegotchi",
+        "symbol": "ghst",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/12467/thumb/GHST.png?1696512286",
+        "url_img_small": "https://assets.coingecko.com/coins/images/12467/small/GHST.png?1696512286",
+        "url_img_large": "https://assets.coingecko.com/coins/images/12467/large/GHST.png?1696512286"
+    },
+    {
+        "id": "aavegotchi-alpha",
+        "name": "Aavegotchi ALPHA",
+        "symbol": "alpha",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24738/thumb/alpha.png?1696523901",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24738/small/alpha.png?1696523901",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24738/large/alpha.png?1696523901"
+    },
+    {
+        "id": "aavegotchi-fomo",
+        "name": "Aavegotchi FOMO",
+        "symbol": "fomo",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24737/thumb/fomo.png?1696523900",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24737/small/fomo.png?1696523900",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24737/large/fomo.png?1696523900"
+    },
+    {
+        "id": "aavegotchi-fud",
+        "name": "Aavegotchi FUD",
+        "symbol": "fud",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24736/thumb/fud.png?1696523899",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24736/small/fud.png?1696523899",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24736/large/fud.png?1696523899"
+    },
+    {
+        "id": "aavegotchi-kek",
+        "name": "Aavegotchi KEK",
+        "symbol": "kek",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24739/thumb/kek.png?1696523902",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24739/small/kek.png?1696523902",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24739/large/kek.png?1696523902"
+    },
+    {
+        "id": "aave-gusd",
+        "name": "Aave GUSD",
+        "symbol": "agusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17246/thumb/aGUSD_2x.png?1696516803",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17246/small/aGUSD_2x.png?1696516803",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17246/large/aGUSD_2x.png?1696516803"
+    },
+    {
+        "id": "aave-interest-bearing-steth",
+        "name": "Aave Interest Bearing STETH",
+        "symbol": "asteth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1696523352",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24163/small/steth.jpg?1696523352",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24163/large/steth.jpg?1696523352"
+    },
+    {
+        "id": "aave-knc",
+        "name": "Aave KNC",
+        "symbol": "aknc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14250/thumb/aKNC.42bcd2e3.png?1696513964",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14250/small/aKNC.42bcd2e3.png?1696513964",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14250/large/aKNC.42bcd2e3.png?1696513964"
+    },
+    {
+        "id": "aave-knc-v1",
+        "name": "Aave KNC v1",
+        "symbol": "aknc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11727/thumb/aKNC.png?1696511608",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11727/small/aKNC.png?1696511608",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11727/large/aKNC.png?1696511608"
+    },
+    {
+        "id": "aave-link",
+        "name": "Aave LINK",
+        "symbol": "alink",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14315/thumb/aLINK.412c6589.png?1696514004",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14315/small/aLINK.412c6589.png?1696514004",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14315/large/aLINK.412c6589.png?1696514004"
+    },
+    {
+        "id": "aave-link-v1",
+        "name": "Aave LINK v1",
+        "symbol": "alink",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11729/thumb/aLINK.png?1696511610",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11729/small/aLINK.png?1696511610",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11729/large/aLINK.png?1696511610"
+    },
+    {
+        "id": "aave-mana",
+        "name": "Aave MANA",
+        "symbol": "amana",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14267/thumb/aMANA.f89a1098.png?1696513968",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14267/small/aMANA.f89a1098.png?1696513968",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14267/large/aMANA.f89a1098.png?1696513968"
+    },
+    {
+        "id": "aave-mana-v1",
+        "name": "Aave MANA v1",
+        "symbol": "amana",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11730/thumb/aMANA.png?1696511611",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11730/small/aMANA.png?1696511611",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11730/large/aMANA.png?1696511611"
+    },
+    {
+        "id": "aave-mkr",
+        "name": "Aave MKR",
+        "symbol": "amkr",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14248/thumb/aMKR.ac965178.png?1696513962",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14248/small/aMKR.ac965178.png?1696513962",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14248/large/aMKR.ac965178.png?1696513962"
+    },
+    {
+        "id": "aave-mkr-v1",
+        "name": "Aave MKR v1",
+        "symbol": "amkr",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11731/thumb/aMKR.png?1696511612",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11731/small/aMKR.png?1696511612",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11731/large/aMKR.png?1696511612"
+    },
+    {
+        "id": "aave-polygon-aave",
+        "name": "Aave Polygon AAVE",
+        "symbol": "amaave",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17239/thumb/amAAVE_2x.png?1696516796",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17239/small/amAAVE_2x.png?1696516796",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17239/large/amAAVE_2x.png?1696516796"
+    },
+    {
+        "id": "aave-polygon-dai",
+        "name": "Aave Polygon DAI",
+        "symbol": "amdai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17251/thumb/amDAI_2x.png?1696516807",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17251/small/amDAI_2x.png?1696516807",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17251/large/amDAI_2x.png?1696516807"
+    },
+    {
+        "id": "aave-polygon-usdc",
+        "name": "Aave Polygon USDC",
+        "symbol": "amusdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17249/thumb/amUSDC_2x.png?1696516805",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17249/small/amUSDC_2x.png?1696516805",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17249/large/amUSDC_2x.png?1696516805"
+    },
+    {
+        "id": "aave-polygon-usdt",
+        "name": "Aave Polygon USDT",
+        "symbol": "amusdt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17264/thumb/amUSDT_2x.png?1696516819",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17264/small/amUSDT_2x.png?1696516819",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17264/large/amUSDT_2x.png?1696516819"
+    },
+    {
+        "id": "aave-polygon-wbtc",
+        "name": "Aave Polygon WBTC",
+        "symbol": "amwbtc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17265/thumb/amWBTC_2x.png?1696516820",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17265/small/amWBTC_2x.png?1696516820",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17265/large/amWBTC_2x.png?1696516820"
+    },
+    {
+        "id": "aave-polygon-weth",
+        "name": "Aave Polygon WETH",
+        "symbol": "amweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17266/thumb/amWETH_2x.png?1696516821",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17266/small/amWETH_2x.png?1696516821",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17266/large/amWETH_2x.png?1696516821"
+    },
+    {
+        "id": "aave-polygon-wmatic",
+        "name": "Aave Polygon WMATIC",
+        "symbol": "amwmatic",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17267/thumb/amWMATIC_2x.png?1696516822",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17267/small/amWMATIC_2x.png?1696516822",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17267/large/amWMATIC_2x.png?1696516822"
+    },
+    {
+        "id": "aave-rai",
+        "name": "Aave RAI",
+        "symbol": "arai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17245/thumb/aRAI_2x.png?1696516802",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17245/small/aRAI_2x.png?1696516802",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17245/large/aRAI_2x.png?1696516802"
+    },
+    {
+        "id": "aave-ren",
+        "name": "Aave REN",
+        "symbol": "aren",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14249/thumb/aREN.382be386.png?1696513963",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14249/small/aREN.382be386.png?1696513963",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14249/large/aREN.382be386.png?1696513963"
+    },
+    {
+        "id": "aave-ren-v1",
+        "name": "Aave REN v1",
+        "symbol": "aren",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/12483/thumb/aREN.png?1696512300",
+        "url_img_small": "https://assets.coingecko.com/coins/images/12483/small/aREN.png?1696512300",
+        "url_img_large": "https://assets.coingecko.com/coins/images/12483/large/aREN.png?1696512300"
+    },
+    {
+        "id": "aave-snx",
+        "name": "Aave SNX",
+        "symbol": "asnx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14265/thumb/aSNX.3238f3e7.png?1696513966",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14265/small/aSNX.3238f3e7.png?1696513966",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14265/large/aSNX.3238f3e7.png?1696513966"
+    },
+    {
+        "id": "aave-snx-v1",
+        "name": "Aave SNX v1",
+        "symbol": "asnx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11733/thumb/aSNX.png?1696511614",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11733/small/aSNX.png?1696511614",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11733/large/aSNX.png?1696511614"
+    },
+    {
+        "id": "aave-susd",
+        "name": "Aave SUSD",
+        "symbol": "asusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14266/thumb/aSUSD.9b00ffc6.png?1696513967",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14266/small/aSUSD.9b00ffc6.png?1696513967",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14266/large/aSUSD.9b00ffc6.png?1696513967"
+    },
+    {
+        "id": "aave-susd-v1",
+        "name": "Aave SUSD v1",
+        "symbol": "asusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11723/thumb/aSUSD.png?1696511605",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11723/small/aSUSD.png?1696511605",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11723/large/aSUSD.png?1696511605"
+    },
+    {
+        "id": "aave-tusd",
+        "name": "Aave TUSD",
+        "symbol": "atusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14317/thumb/aTUSD.08592b49.png?1696514005",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14317/small/aTUSD.08592b49.png?1696514005",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14317/large/aTUSD.08592b49.png?1696514005"
+    },
+    {
+        "id": "aave-tusd-v1",
+        "name": "Aave TUSD v1",
+        "symbol": "atusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11724/thumb/aTUSD.png?1696511606",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11724/small/aTUSD.png?1696511606",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11724/large/aTUSD.png?1696511606"
+    },
+    {
+        "id": "aave-uni",
+        "name": "Aave UNI",
+        "symbol": "auni",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17247/thumb/aUNI_2x.png?1696516804",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17247/small/aUNI_2x.png?1696516804",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17247/large/aUNI_2x.png?1696516804"
+    },
+    {
+        "id": "aave-usdc",
+        "name": "Aave v2 USDC",
+        "symbol": "ausdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1696514006",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14318/small/aUSDC.e260d492.png?1696514006",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14318/large/aUSDC.e260d492.png?1696514006"
+    },
+    {
+        "id": "aave-usdc-v1",
+        "name": "Aave USDC v1",
+        "symbol": "ausdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11674/thumb/aUSDC.png?1696511564",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11674/small/aUSDC.png?1696511564",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11674/large/aUSDC.png?1696511564"
+    },
+    {
+        "id": "aave-usdt",
+        "name": "Aave USDT",
+        "symbol": "ausdt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1696513958",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14243/small/aUSDT.78f5faae.png?1696513958",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14243/large/aUSDT.78f5faae.png?1696513958"
+    },
+    {
+        "id": "aave-usdt-v1",
+        "name": "Aave USDT v1",
+        "symbol": "ausdt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11725/thumb/aUSDT.png?1696511607",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11725/small/aUSDT.png?1696511607",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11725/large/aUSDT.png?1696511607"
+    },
+    {
+        "id": "aave-v3-1inch",
+        "name": "Aave v3 1INCH",
+        "symbol": "a1inch",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32906/thumb/1INCH.png?1699804523",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32906/small/1INCH.png?1699804523",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32906/large/1INCH.png?1699804523"
+    },
+    {
+        "id": "aave-v3-aave",
+        "name": "Aave v3 AAVE",
+        "symbol": "aaave",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32887/thumb/aave.png?1699773604",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32887/small/aave.png?1699773604",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32887/large/aave.png?1699773604"
+    },
+    {
+        "id": "aave-v3-ageur",
+        "name": "Aave v3 agEUR",
+        "symbol": "aageur",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32925/thumb/eur.png?1699826217",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32925/small/eur.png?1699826217",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32925/large/eur.png?1699826217"
+    },
+    {
+        "id": "aave-v3-arb",
+        "name": "Aave v3 ARB",
+        "symbol": "aarb",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32912/thumb/arbitrum.png?1699824441",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32912/small/arbitrum.png?1699824441",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32912/large/arbitrum.png?1699824441"
+    },
+    {
+        "id": "aave-v3-bal",
+        "name": "Aave v3 BAL",
+        "symbol": "abal",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32903/thumb/BAL_%281%29.png?1699802595",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32903/small/BAL_%281%29.png?1699802595",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32903/large/BAL_%281%29.png?1699802595"
+    },
+    {
+        "id": "aave-v3-btc-b",
+        "name": "Aave v3 BTC.b",
+        "symbol": "abtc.b",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32914/thumb/btc.png?1699824823",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32914/small/btc.png?1699824823",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32914/large/btc.png?1699824823"
+    },
+    {
+        "id": "aave-v3-cbeth",
+        "name": "Aave v3 cbETH",
+        "symbol": "acbeth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32892/thumb/cbETH.png?1699789253",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32892/small/cbETH.png?1699789253",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32892/large/cbETH.png?1699789253"
+    },
+    {
+        "id": "aave-v3-crv",
+        "name": "Aave v3 CRV",
+        "symbol": "acrv",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32901/thumb/CRV.png?1699802172",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32901/small/CRV.png?1699802172",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32901/large/CRV.png?1699802172"
+    },
+    {
+        "id": "aave-v3-dai",
+        "name": "Aave v3 DAI",
+        "symbol": "adai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32886/thumb/dai.png?1699769446",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32886/small/dai.png?1699769446",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32886/large/dai.png?1699769446"
+    },
+    {
+        "id": "aave-v3-dpi",
+        "name": "Aave v3 DPI",
+        "symbol": "adpi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32926/thumb/dpi.png?1699826275",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32926/small/dpi.png?1699826275",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32926/large/dpi.png?1699826275"
+    },
+    {
+        "id": "aave-v3-ens",
+        "name": "Aave v3 ENS",
+        "symbol": "aens",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32907/thumb/ens.png?1699816992",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32907/small/ens.png?1699816992",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32907/large/ens.png?1699816992"
+    },
+    {
+        "id": "aave-v3-eure",
+        "name": "Aave v3 EURe",
+        "symbol": "aeure",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32929/thumb/monerium.png?1699826642",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32929/small/monerium.png?1699826642",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32929/large/monerium.png?1699826642"
+    },
+    {
+        "id": "aave-v3-eurs",
+        "name": "Aave v3 EURS",
+        "symbol": "aeurs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32913/thumb/eurs.png?1699824583",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32913/small/eurs.png?1699824583",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32913/large/eurs.png?1699824583"
+    },
+    {
+        "id": "aave-v3-frax",
+        "name": "Aave v3 FRAX",
+        "symbol": "afrax",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32904/thumb/FRAX.png?1699802848",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32904/small/FRAX.png?1699802848",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32904/large/FRAX.png?1699802848"
+    },
+    {
+        "id": "aave-v3-ghst",
+        "name": "Aave v3 GHST",
+        "symbol": "aghst",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32923/thumb/ghst.png?1699826089",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32923/small/ghst.png?1699826089",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32923/large/ghst.png?1699826089"
+    },
+    {
+        "id": "aave-v3-gno",
+        "name": "Aave v3 GNO",
+        "symbol": "agno",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32928/thumb/gno.png?1699826574",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32928/small/gno.png?1699826574",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32928/large/gno.png?1699826574"
+    },
+    {
+        "id": "aave-v3-knc",
+        "name": "Aave v3 KNC",
+        "symbol": "aknc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32908/thumb/kyber.png?1699817281",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32908/small/kyber.png?1699817281",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32908/large/kyber.png?1699817281"
+    },
+    {
+        "id": "aave-v3-ldo",
+        "name": "Aave v3 LDO",
+        "symbol": "aldo",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32895/thumb/LDO.png?1699790151",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32895/small/LDO.png?1699790151",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32895/large/LDO.png?1699790151"
+    },
+    {
+        "id": "aave-v3-link",
+        "name": "Aave v3 LINK",
+        "symbol": "alink",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32888/thumb/link.png?1699773900",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32888/small/link.png?1699773900",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32888/large/link.png?1699773900"
+    },
+    {
+        "id": "aave-v3-lusd",
+        "name": "Aave v3 LUSD",
+        "symbol": "alusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32894/thumb/LUSD.png?1699789893",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32894/small/LUSD.png?1699789893",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32894/large/LUSD.png?1699789893"
+    },
+    {
+        "id": "aave-v3-mai",
+        "name": "Aave v3 MAI",
+        "symbol": "amai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32917/thumb/mai.png?1699825303",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32917/small/mai.png?1699825303",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32917/large/mai.png?1699825303"
+    },
+    {
+        "id": "aave-v3-maticx",
+        "name": "Aave v3 MaticX",
+        "symbol": "amaticx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32920/thumb/maticx.png?1699825663",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32920/small/maticx.png?1699825663",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32920/large/maticx.png?1699825663"
+    },
+    {
+        "id": "aave-v3-metis",
+        "name": "Aave v3 Metis",
+        "symbol": "ametis",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32927/thumb/metis.png?1699826503",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32927/small/metis.png?1699826503",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32927/large/metis.png?1699826503"
+    },
+    {
+        "id": "aave-v3-mkr",
+        "name": "Aave v3 MKR",
+        "symbol": "amkr",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32889/thumb/mkr.png?1699774767",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32889/small/mkr.png?1699774767",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32889/large/mkr.png?1699774767"
+    },
+    {
+        "id": "aave-v3-op",
+        "name": "Aave v3 OP",
+        "symbol": "aop",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32919/thumb/op.png?1699825542",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32919/small/op.png?1699825542",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32919/large/op.png?1699825542"
+    },
+    {
+        "id": "aave-v3-reth",
+        "name": "Aave v3 rETH",
+        "symbol": "areth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32885/thumb/reth.png?1699768947",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32885/small/reth.png?1699768947",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32885/large/reth.png?1699768947"
+    },
+    {
+        "id": "aave-v3-rpl",
+        "name": "Aave v3 RPL",
+        "symbol": "arpl",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32909/thumb/RPL.png?1699817497",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32909/small/RPL.png?1699817497",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32909/large/RPL.png?1699817497"
+    },
+    {
+        "id": "aave-v3-savax",
+        "name": "Aave v3 sAVAX",
+        "symbol": "asavax",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32916/thumb/savax.png?1699825205",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32916/small/savax.png?1699825205",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32916/large/savax.png?1699825205"
+    },
+    {
+        "id": "aave-v3-sdai",
+        "name": "Aave v3 sDAI",
+        "symbol": "asdai",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32891/thumb/sdai.png?1699785595",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32891/small/sdai.png?1699785595",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32891/large/sdai.png?1699785595"
+    },
+    {
+        "id": "aave-v3-snx",
+        "name": "Aave v3 SNX",
+        "symbol": "asnx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32902/thumb/SNX.png?1699802376",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32902/small/SNX.png?1699802376",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32902/large/SNX.png?1699802376"
+    },
+    {
+        "id": "aave-v3-stg",
+        "name": "Aave v3 STG",
+        "symbol": "astg",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32905/thumb/ST.png?1699803503",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32905/small/ST.png?1699803503",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32905/large/ST.png?1699803503"
+    },
+    {
+        "id": "aave-v3-stmatic",
+        "name": "Aave v3 stMATIC",
+        "symbol": "astmatic",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32921/thumb/stmatic.png?1699825800",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32921/small/stmatic.png?1699825800",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32921/large/stmatic.png?1699825800"
+    },
+    {
+        "id": "aave-v3-susd",
+        "name": "Aave v3 sUSD",
+        "symbol": "asusd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32918/thumb/asusd.png?1699825436",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32918/small/asusd.png?1699825436",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32918/large/asusd.png?1699825436"
+    },
+    {
+        "id": "aave-v3-sushi",
+        "name": "Aave v3 SUSHI",
+        "symbol": "asushi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32924/thumb/sushi.png?1699826150",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32924/small/sushi.png?1699826150",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32924/large/sushi.png?1699826150"
+    },
+    {
+        "id": "aave-v3-uni",
+        "name": "Aave v3 UNI",
+        "symbol": "auni",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32893/thumb/UNI.png?1699789595",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32893/small/UNI.png?1699789595",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32893/large/UNI.png?1699789595"
+    },
+    {
+        "id": "aave-v3-usdbc",
+        "name": "Aave v3 USDbC",
+        "symbol": "ausdbc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32910/thumb/base.png?1699824128",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32910/small/base.png?1699824128",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32910/large/base.png?1699824128"
+    },
+    {
+        "id": "aave-v3-usdc",
+        "name": "Aave v3 USDC",
+        "symbol": "ausdc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32847/small/usdc_%281%29.png?1699619355",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32847/large/usdc_%281%29.png?1699619355"
+    },
+    {
+        "id": "aave-v3-usdc-e",
+        "name": "Aave v3 USDC.e",
+        "symbol": "ausdc.e",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32911/thumb/usdc.png?1699824302",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32911/small/usdc.png?1699824302",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32911/large/usdc.png?1699824302"
+    },
+    {
+        "id": "aave-v3-usdt",
+        "name": "Aave v3 USDT",
+        "symbol": "ausdt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32884/thumb/USDT.PNG?1699768611",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32884/small/USDT.PNG?1699768611",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32884/large/USDT.PNG?1699768611"
+    },
+    {
+        "id": "aave-v3-wavax",
+        "name": "Aave v3 WAVAX",
+        "symbol": "awavax",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32915/thumb/wavax.png?1699824961",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32915/small/wavax.png?1699824961",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32915/large/wavax.png?1699824961"
+    },
+    {
+        "id": "aave-v3-wbtc",
+        "name": "Aave v3 WBTC",
+        "symbol": "awbtc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32883/thumb/wbtc.png?1699719908",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32883/small/wbtc.png?1699719908",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32883/large/wbtc.png?1699719908"
+    },
+    {
+        "id": "aave-v3-weth",
+        "name": "Aave v3 WETH",
+        "symbol": "aweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32882/small/WETH_%281%29.png?1699716492",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32882/large/WETH_%281%29.png?1699716492"
+    },
+    {
+        "id": "aave-v3-wmatic",
+        "name": "Aave v3 WMATIC",
+        "symbol": "awmatic",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32922/thumb/wmatic.png?1699825896",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32922/small/wmatic.png?1699825896",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32922/large/wmatic.png?1699825896"
+    },
+    {
+        "id": "aave-v3-wsteth",
+        "name": "Aave v3 wstETH",
+        "symbol": "awsteth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32890/thumb/WSTETH.png?1699776336",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32890/small/WSTETH.png?1699776336",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32890/large/WSTETH.png?1699776336"
+    },
+    {
+        "id": "aave-wbtc",
+        "name": "Aave WBTC",
+        "symbol": "awbtc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1696513959",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14244/small/aWBTC.41453c2a.png?1696513959",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14244/large/aWBTC.41453c2a.png?1696513959"
+    },
+    {
+        "id": "aave-wbtc-v1",
+        "name": "Aave WBTC v1",
+        "symbol": "awbtc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11734/thumb/aWBTC.png?1696511615",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11734/small/aWBTC.png?1696511615",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11734/large/aWBTC.png?1696511615"
+    },
+    {
+        "id": "aave-weth",
+        "name": "Aave WETH",
+        "symbol": "aweth",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17238/thumb/aWETH_2x.png?1696516795",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17238/small/aWETH_2x.png?1696516795",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17238/large/aWETH_2x.png?1696516795"
+    },
+    {
+        "id": "aave-xsushi",
+        "name": "Aave XSUSHI",
+        "symbol": "axsushi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17256/thumb/aXSUSHI_2x.png?1696516812",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17256/small/aXSUSHI_2x.png?1696516812",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17256/large/aXSUSHI_2x.png?1696516812"
+    },
+    {
+        "id": "aave-yfi",
+        "name": "Aave YFI",
+        "symbol": "ayfi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17257/thumb/aYFI_2x.png?1696516813",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17257/small/aYFI_2x.png?1696516813",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17257/large/aYFI_2x.png?1696516813"
+    },
+    {
+        "id": "aave-yvault",
+        "name": "Aave yVault",
+        "symbol": "yvaave",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28784/thumb/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1696527763",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28784/small/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1696527763",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28784/large/yvAAVE-128-0xd9788f3931Ede4D5018184E198699dC6d66C1915.png?1696527763"
+    },
+    {
+        "id": "aave-zrx",
+        "name": "Aave ZRX",
+        "symbol": "azrx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14264/thumb/aZRX.9be555a9.png?1696513965",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14264/small/aZRX.9be555a9.png?1696513965",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14264/large/aZRX.9be555a9.png?1696513965"
+    },
+    {
+        "id": "aave-zrx-v1",
+        "name": "Aave ZRX v1",
+        "symbol": "azrx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/11735/thumb/aZRX.png?1696511616",
+        "url_img_small": "https://assets.coingecko.com/coins/images/11735/small/aZRX.png?1696511616",
+        "url_img_large": "https://assets.coingecko.com/coins/images/11735/large/aZRX.png?1696511616"
+    },
+    {
+        "id": "abachi-2",
+        "name": "Abachi",
+        "symbol": "abi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31225/thumb/Abachi.png?1696530051",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31225/small/Abachi.png?1696530051",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31225/large/Abachi.png?1696530051"
+    },
+    {
+        "id": "abased",
+        "name": "aBASED",
+        "symbol": "$abased",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29528/thumb/based.png?1696528470",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29528/small/based.png?1696528470",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29528/large/based.png?1696528470"
+    },
+    {
+        "id": "abcmeta",
+        "name": "ABCMETA",
+        "symbol": "meta",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27723/thumb/meta-gecko50.png?1696526747",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27723/small/meta-gecko50.png?1696526747",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27723/large/meta-gecko50.png?1696526747"
+    },
+    {
+        "id": "abc-pos-pool",
+        "name": "ABC PoS Pool",
+        "symbol": "abc",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29845/thumb/ABC_PoS_Pool-2.png?1696528772",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29845/small/ABC_PoS_Pool-2.png?1696528772",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29845/large/ABC_PoS_Pool-2.png?1696528772"
+    },
+    {
+        "id": "abel-finance",
+        "name": "ABEL Finance",
+        "symbol": "abel",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28469/thumb/Abel_logo_circle.png?1696527463",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28469/small/Abel_logo_circle.png?1696527463",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28469/large/Abel_logo_circle.png?1696527463"
+    },
+    {
+        "id": "abelian",
+        "name": "Abelian",
+        "symbol": "abel",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30417/thumb/ABEL-LOGOS-ICONE-02.png?1696529306",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30417/small/ABEL-LOGOS-ICONE-02.png?1696529306",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30417/large/ABEL-LOGOS-ICONE-02.png?1696529306"
+    },
+    {
+        "id": "abey",
+        "name": "Abey",
+        "symbol": "abey",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/22146/thumb/16690.png?1696521491",
+        "url_img_small": "https://assets.coingecko.com/coins/images/22146/small/16690.png?1696521491",
+        "url_img_large": "https://assets.coingecko.com/coins/images/22146/large/16690.png?1696521491"
+    },
+    {
+        "id": "able-finance",
+        "name": "Able Finance",
+        "symbol": "able",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/17819/thumb/aac9bfb0-f27f-48f3-9b3e-ec090e10d3e1.png?1696517339",
+        "url_img_small": "https://assets.coingecko.com/coins/images/17819/small/aac9bfb0-f27f-48f3-9b3e-ec090e10d3e1.png?1696517339",
+        "url_img_large": "https://assets.coingecko.com/coins/images/17819/large/aac9bfb0-f27f-48f3-9b3e-ec090e10d3e1.png?1696517339"
+    },
+    {
+        "id": "aboat-token-2",
+        "name": "Aboat Token",
+        "symbol": "aboat",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30132/thumb/aboat.jpg?1696529053",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30132/small/aboat.jpg?1696529053",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30132/large/aboat.jpg?1696529053"
+    },
+    {
+        "id": "absolute-sync-token",
+        "name": "Absolute Sync",
+        "symbol": "ast",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24590/thumb/ast.png?1696523764",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24590/small/ast.png?1696523764",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24590/large/ast.png?1696523764"
+    },
+    {
+        "id": "abyss-world",
+        "name": "Abyss World",
+        "symbol": "awt",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30679/thumb/black.png?1696529548",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30679/small/black.png?1696529548",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30679/large/black.png?1696529548"
+    },
+    {
+        "id": "acala",
+        "name": "Acala",
+        "symbol": "aca",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/20634/thumb/upOKBONH_400x400.jpg?1696520038",
+        "url_img_small": "https://assets.coingecko.com/coins/images/20634/small/upOKBONH_400x400.jpg?1696520038",
+        "url_img_large": "https://assets.coingecko.com/coins/images/20634/large/upOKBONH_400x400.jpg?1696520038"
+    },
+    {
+        "id": "acala-dollar-acala",
+        "name": "Acala Dollar (Acala)",
+        "symbol": "ausd",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28145/thumb/logo_%285%29.png?1696527151",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28145/small/logo_%285%29.png?1696527151",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28145/large/logo_%285%29.png?1696527151"
+    },
+    {
+        "id": "access-protocol",
+        "name": "Access Protocol",
+        "symbol": "acs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28747/thumb/dR4FovX4_400x400.jpg?1696527727",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28747/small/dR4FovX4_400x400.jpg?1696527727",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28747/large/dR4FovX4_400x400.jpg?1696527727"
+    },
+    {
+        "id": "acent",
+        "name": "Acent",
+        "symbol": "ace",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/15211/thumb/acent-logo.png?1696514867",
+        "url_img_small": "https://assets.coingecko.com/coins/images/15211/small/acent-logo.png?1696514867",
+        "url_img_large": "https://assets.coingecko.com/coins/images/15211/large/acent-logo.png?1696514867"
+    },
+    {
+        "id": "acetoken",
+        "name": "ACEToken",
+        "symbol": "ace",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/23990/thumb/ace.png?1696523185",
+        "url_img_small": "https://assets.coingecko.com/coins/images/23990/small/ace.png?1696523185",
+        "url_img_large": "https://assets.coingecko.com/coins/images/23990/large/ace.png?1696523185"
+    },
+    {
+        "id": "achain",
+        "name": "Achain",
+        "symbol": "act",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/1147/thumb/achain-logo.png?1696502238",
+        "url_img_small": "https://assets.coingecko.com/coins/images/1147/small/achain-logo.png?1696502238",
+        "url_img_large": "https://assets.coingecko.com/coins/images/1147/large/achain-logo.png?1696502238"
+    },
+    {
+        "id": "acid",
+        "name": "Acid",
+        "symbol": "acid",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29418/thumb/acid_200_200.png?1696528367",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29418/small/acid_200_200.png?1696528367",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29418/large/acid_200_200.png?1696528367"
+    },
+    {
+        "id": "acknoledger",
+        "name": "AcknoLedger",
+        "symbol": "ack",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/19110/thumb/179336914_101598385424354_5729429129362932203_n.jpeg?1696518562",
+        "url_img_small": "https://assets.coingecko.com/coins/images/19110/small/179336914_101598385424354_5729429129362932203_n.jpeg?1696518562",
+        "url_img_large": "https://assets.coingecko.com/coins/images/19110/large/179336914_101598385424354_5729429129362932203_n.jpeg?1696518562"
+    },
+    {
+        "id": "ac-milan-fan-token",
+        "name": "AC Milan Fan Token",
+        "symbol": "acm",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13940/thumb/ACM-10.png?1696513678",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13940/small/ACM-10.png?1696513678",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13940/large/ACM-10.png?1696513678"
+    },
+    {
+        "id": "acoconut",
+        "name": "ACoconut",
+        "symbol": "ac",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/12779/thumb/ac_logo.png?1696512574",
+        "url_img_small": "https://assets.coingecko.com/coins/images/12779/small/ac_logo.png?1696512574",
+        "url_img_large": "https://assets.coingecko.com/coins/images/12779/large/ac_logo.png?1696512574"
+    },
+    {
+        "id": "acorn-protocol",
+        "name": "Acorn Protocol",
+        "symbol": "acn",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/30775/thumb/Logo_ACN.png?1696529643",
+        "url_img_small": "https://assets.coingecko.com/coins/images/30775/small/Logo_ACN.png?1696529643",
+        "url_img_large": "https://assets.coingecko.com/coins/images/30775/large/Logo_ACN.png?1696529643"
+    },
+    {
+        "id": "acquire-fi",
+        "name": "Acquire.Fi",
+        "symbol": "acq",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/27199/thumb/ACQisotypeSept2022_1000x1000px.png?1696526248",
+        "url_img_small": "https://assets.coingecko.com/coins/images/27199/small/ACQisotypeSept2022_1000x1000px.png?1696526248",
+        "url_img_large": "https://assets.coingecko.com/coins/images/27199/large/ACQisotypeSept2022_1000x1000px.png?1696526248"
+    },
+    {
+        "id": "acreage-coin",
+        "name": "Acreage Coin",
+        "symbol": "acr",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/5100/thumb/acreage-coin.jpg?1696505621",
+        "url_img_small": "https://assets.coingecko.com/coins/images/5100/small/acreage-coin.jpg?1696505621",
+        "url_img_large": "https://assets.coingecko.com/coins/images/5100/large/acreage-coin.jpg?1696505621"
+    },
+    {
+        "id": "acria",
+        "name": "Acria.AI",
+        "symbol": "acria",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28598/thumb/image002.png?1696527585",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28598/small/image002.png?1696527585",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28598/large/image002.png?1696527585"
+    },
+    {
+        "id": "across-protocol",
+        "name": "Across Protocol",
+        "symbol": "acx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1696527165",
+        "url_img_small": "https://assets.coingecko.com/coins/images/28161/small/across-200x200.png?1696527165",
+        "url_img_large": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165"
+    },
+    {
+        "id": "acryptos",
+        "name": "ACryptoS [OLD]",
+        "symbol": "acs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13276/thumb/acryptos_32.png?1696513049",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13276/small/acryptos_32.png?1696513049",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13276/large/acryptos_32.png?1696513049"
+    },
+    {
+        "id": "acryptos-2",
+        "name": "ACryptoS",
+        "symbol": "acs",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32721/thumb/ACS.jpg?1699009686",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32721/small/ACS.jpg?1699009686",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32721/large/ACS.jpg?1699009686"
+    },
+    {
+        "id": "acryptosi",
+        "name": "ACryptoSI",
+        "symbol": "acsi",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/13307/thumb/acryptos2_32.png?1696513078",
+        "url_img_small": "https://assets.coingecko.com/coins/images/13307/small/acryptos2_32.png?1696513078",
+        "url_img_large": "https://assets.coingecko.com/coins/images/13307/large/acryptos2_32.png?1696513078"
+    },
+    {
+        "id": "actinium",
+        "name": "Actinium",
+        "symbol": "acm",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/4763/thumb/actinium-token-logo.png?1696505321",
+        "url_img_small": "https://assets.coingecko.com/coins/images/4763/small/actinium-token-logo.png?1696505321",
+        "url_img_large": "https://assets.coingecko.com/coins/images/4763/large/actinium-token-logo.png?1696505321"
+    },
+    {
+        "id": "action-coin",
+        "name": "Action Coin",
+        "symbol": "actn",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/5079/thumb/act.jpg?1696505604",
+        "url_img_small": "https://assets.coingecko.com/coins/images/5079/small/act.jpg?1696505604",
+        "url_img_large": "https://assets.coingecko.com/coins/images/5079/large/act.jpg?1696505604"
+    },
+    {
+        "id": "acute-angle-cloud",
+        "name": "Double-A Chain",
+        "symbol": "aac",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/2577/thumb/acute-angle-cloud.png?1696503381",
+        "url_img_small": "https://assets.coingecko.com/coins/images/2577/small/acute-angle-cloud.png?1696503381",
+        "url_img_large": "https://assets.coingecko.com/coins/images/2577/large/acute-angle-cloud.png?1696503381"
+    },
+    {
+        "id": "adacash",
+        "name": "ADAcash",
+        "symbol": "adacash",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/19509/thumb/adacash.png?1696518943",
+        "url_img_small": "https://assets.coingecko.com/coins/images/19509/small/adacash.png?1696518943",
+        "url_img_large": "https://assets.coingecko.com/coins/images/19509/large/adacash.png?1696518943"
+    },
+    {
+        "id": "adadao",
+        "name": "ADADao",
+        "symbol": "adao",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24372/thumb/dkw8F6mr_400x400.jpg?1696523556",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24372/small/dkw8F6mr_400x400.jpg?1696523556",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24372/large/dkw8F6mr_400x400.jpg?1696523556"
+    },
+    {
+        "id": "adadex",
+        "name": "Adadex",
+        "symbol": "adex",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32197/thumb/ADADEX.jpg?1696745714",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32197/small/ADADEX.jpg?1696745714",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32197/large/ADADEX.jpg?1696745714"
+    },
+    {
+        "id": "adamant",
+        "name": "Adamant",
+        "symbol": "addy",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/15225/thumb/adamant.png?1696514880",
+        "url_img_small": "https://assets.coingecko.com/coins/images/15225/small/adamant.png?1696514880",
+        "url_img_large": "https://assets.coingecko.com/coins/images/15225/large/adamant.png?1696514880"
+    },
+    {
+        "id": "adamant-messenger",
+        "name": "ADAMANT Messenger",
+        "symbol": "adm",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/2372/thumb/adamant.png?1696503238",
+        "url_img_small": "https://assets.coingecko.com/coins/images/2372/small/adamant.png?1696503238",
+        "url_img_large": "https://assets.coingecko.com/coins/images/2372/large/adamant.png?1696503238"
+    },
+    {
+        "id": "adam-cochran-friends-tech",
+        "name": "Adam Cochran (Friend.tech)",
+        "symbol": "adam",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31335/thumb/adam.jpeg?1696530153",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31335/small/adam.jpeg?1696530153",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31335/large/adam.jpeg?1696530153"
+    },
+    {
+        "id": "adanaspor-fan-token",
+        "name": "Adanaspor Fan Token",
+        "symbol": "adana",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/26014/thumb/adanaspor.png?1696525091",
+        "url_img_small": "https://assets.coingecko.com/coins/images/26014/small/adanaspor.png?1696525091",
+        "url_img_large": "https://assets.coingecko.com/coins/images/26014/large/adanaspor.png?1696525091"
+    },
+    {
+        "id": "adapad",
+        "name": "ADAPad",
+        "symbol": "adapad",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/18273/thumb/EhSqPTtG_400x400.jpg?1696517767",
+        "url_img_small": "https://assets.coingecko.com/coins/images/18273/small/EhSqPTtG_400x400.jpg?1696517767",
+        "url_img_large": "https://assets.coingecko.com/coins/images/18273/large/EhSqPTtG_400x400.jpg?1696517767"
+    },
+    {
+        "id": "adappter-token",
+        "name": "Adappter",
+        "symbol": "adp",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/14203/thumb/logo_on.png?1696513920",
+        "url_img_small": "https://assets.coingecko.com/coins/images/14203/small/logo_on.png?1696513920",
+        "url_img_large": "https://assets.coingecko.com/coins/images/14203/large/logo_on.png?1696513920"
+    },
+    {
+        "id": "adaswap",
+        "name": "AdaSwap",
+        "symbol": "asw",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/24453/thumb/rA5cmPtX_400x400.jpg?1696523633",
+        "url_img_small": "https://assets.coingecko.com/coins/images/24453/small/rA5cmPtX_400x400.jpg?1696523633",
+        "url_img_large": "https://assets.coingecko.com/coins/images/24453/large/rA5cmPtX_400x400.jpg?1696523633"
+    },
+    {
+        "id": "adax",
+        "name": "ADAX",
+        "symbol": "adax",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/16768/thumb/adax.pro_icon_rpjihi.png?1696516341",
+        "url_img_small": "https://assets.coingecko.com/coins/images/16768/small/adax.pro_icon_rpjihi.png?1696516341",
+        "url_img_large": "https://assets.coingecko.com/coins/images/16768/large/adax.pro_icon_rpjihi.png?1696516341"
+    },
+    {
+        "id": "adazoo",
+        "name": "ADAZOO",
+        "symbol": "zoo",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/29326/thumb/zoo.png?1696528276",
+        "url_img_small": "https://assets.coingecko.com/coins/images/29326/small/zoo.png?1696528276",
+        "url_img_large": "https://assets.coingecko.com/coins/images/29326/large/zoo.png?1696528276"
+    },
+    {
+        "id": "add-finance",
+        "name": "Add Finance",
+        "symbol": "add",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/32008/thumb/add.jpg?1696530806",
+        "url_img_small": "https://assets.coingecko.com/coins/images/32008/small/add.jpg?1696530806",
+        "url_img_large": "https://assets.coingecko.com/coins/images/32008/large/add.jpg?1696530806"
+    },
+    {
+        "id": "addiction",
+        "name": "Addiction",
+        "symbol": "add",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/31855/thumb/xukIbp0o_400x400.jpg?1696530668",
+        "url_img_small": "https://assets.coingecko.com/coins/images/31855/small/xukIbp0o_400x400.jpg?1696530668",
+        "url_img_large": "https://assets.coingecko.com/coins/images/31855/large/xukIbp0o_400x400.jpg?1696530668"
+    },
+    {
+        "id": "adex",
+        "name": "AdEx",
+        "symbol": "adx",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/847/thumb/adex.jpeg?1696501984",
+        "url_img_small": "https://assets.coingecko.com/coins/images/847/small/adex.jpeg?1696501984",
+        "url_img_large": "https://assets.coingecko.com/coins/images/847/large/adex.jpeg?1696501984"
+    },
+    {
+        "id": "ad-flex-token",
+        "name": "Ad Flex",
+        "symbol": "adf",
+        "url_img_thumb": "https://assets.coingecko.com/coins/images/5620/thumb/ad-flex-token.png?1696506082",
+        "url_img_small": "https://assets.coingecko.com/coins/images/5620/small/ad-flex-token.png?1696506082",
+        "url_img_large": "https://assets.coingecko.com/coins/images/5620/large/ad-flex-token.png?1696506082"
+    }
+]

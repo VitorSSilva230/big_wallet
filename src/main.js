@@ -7,6 +7,8 @@ import VueToast from 'vue-toast-notification';
 import 'vue-toast-notification/dist/theme-sugar.css';
 import { VueMaskDirective } from 'v-mask';
 
+import '@/components/style/style.css';
+
 Vue.directive('mask', VueMaskDirective);
 
 Vue.use(VueToast);

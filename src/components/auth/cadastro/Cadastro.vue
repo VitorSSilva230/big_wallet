@@ -9,9 +9,10 @@
                         <v-form ref="form" @submit.prevent="registerUser">
                             <v-text-field v-model="usuario.name" label="Nome" required></v-text-field>
                             <v-text-field v-model="usuario.email" label="Email" type="email" required></v-text-field>
-                            <v-text-field v-model="usuario.password" label="Senha" type="password" :error-messages="email.errorMessage.value" required></v-text-field>
                             <v-text-field v-model="usuario.cpf" label="CPF" v-mask="'###.###.###-##'" required></v-text-field>
+                            <v-text-field v-model="usuario.password" label="Senha" type="password"  required></v-text-field>
                             <v-btn type="submit" color="primary">Cadastrar</v-btn>
+                            <v-btn type="submit" color="primary">Login</v-btn>
                         </v-form>
                     </v-card-text>
                 </v-card>
@@ -76,9 +77,11 @@ export default {
         async createNewWallet() {
 
             let requestBody = {
-                id_user: 34,
+                id_user: this.userId,
                 id_key_coin: "tether",
-                amount: 1000
+                amount: 1000,
+                name: "Tether USDt",
+                url_img_wallet: "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661"
             }
 
            await axios.post(`https://localhost:7112/api/wallet`, requestBody)
@@ -107,6 +110,6 @@ export default {
 </script>
   
 <style scoped>
-/* Estilos específicos para o componente, se necessário */
+
 </style>
   
